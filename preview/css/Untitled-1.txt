@@ -1,0 +1,202 @@
+<div class="row">
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/jayshil.jpg" class="img-responsive" style="display: inline; background-size:cover ;padding-top: 10px;border-radius: 55%"alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Jayshil Dave</h3>
+								<div class="team-location"></div>
+								<!-- <div class="team-position">Coding Domain Head</div> -->
+								<div class="team-position">Team Captain</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/nikhil.jpg" class="img-responsive" style="display: inline; background-size:cover;padding-top: 10px;border-radius: 55%" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Nikhil Kumar</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Developer</div>
+								
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/aakarsh.jpg" class="img-responsive"  style="display: inline; background-size:cover ;padding-top: 10px;border-radius: 55%"  alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Aakarsh Saini</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Developer</div>
+								
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/sunny.jpg" style="display: inline; background-size:cover ;padding-top: 10px;border-radius: 55%" class="img-responsive" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Sunny Jerai</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Electronics Domain Head</div>
+								<!-- <p>Dolor sit don namet, cons uectetur beriscing adon elit. Aliquam vitae fringilla unda.</p> -->
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/nisar.png" class="img-responsive"  style="display: inline; background-size:cover ;padding-top: 10px;border-radius: 100%"  alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Nisar Raunaq</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Mechanical</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/shubham.jpg" class="img-responsive" style="display: inline; background-size:cover ;padding-top: 10px;border-radius: 55%" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Shubham Gujar</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Electronics</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/yash.jpg" class="img-responsive" style="display: inline; background-size:cover ;padding-top: 10px;border-radius: 55%" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Yash Patel</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Mechanical Domain Head</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/satyapal.jpg" class="img-responsive" style="display: inline; background-size:cover;padding-top: 10px;border-radius: 55%" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>SatyapalSinh Gohil </h3>
+								<div class="team-location"></div>
+								<div class="team-position">Mechanical</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/viral.jpg" class="img-responsive"  style="display: inline; background-size:cover;padding-top: 10px;border-radius: 55%" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Viral Panchal</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Mechanical</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/karan.jpg" class="img-responsive" style="display: inline; background-size:cover;padding-top: 10px;border-radius: 55%" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Karan Yerawar</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Mechanical</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/mihir_s.jpg" class="img-responsive" style="display: inline; background-size:cover;padding-top: 10px;border-radius: 55%" alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Mihir Singh</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Developer</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/souvik.jpg" class="img-responsive" style="display: inline; background-size:cover;padding-top: 10px;border-radius: 55%"alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Souvik Purkayastha</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Electronics</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+					<!-- team member item -->
+					<div class="col-md-3">
+						<div class="team-item">
+							<div class="team-image">
+								<img src="images/team/abhishek.jpeg" class="img-responsive" style="display: inline; background-size:cover;padding-top: 10px;border-radius: 55%"  alt="author">
+							</div>
+							<div class="team-text">
+								<h3>Abhishek Kumar</h3>
+								<div class="team-location"></div>
+								<div class="team-position">Developer</div>
+								<p></p>
+							</div>
+						</div>
+					</div>
+					<!-- end team member item -->
+
+				</div>
+			</div>
