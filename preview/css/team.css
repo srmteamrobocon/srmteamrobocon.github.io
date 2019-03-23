@@ -1,17 +1,19 @@
 .our-team{
     text-align: center;
+    padding-left: 20%;
+    padding-right: 20%;
 }
 .pic1{
     display: block;
     margin-left:auto;
     margin-right:auto;
     position:relative;
-    border-radius:auto;
+    border-radius:55%;
     align-content: center;
 }
 .our-team .pic{
     position: relative;
-    border-radius: auto;
+    border-radius: 55%;
     overflow: hidden;
     display: block;
     align-content: center;
