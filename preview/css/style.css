@@ -171,7 +171,7 @@ section {
 --------------------*/
 
 header {
-    background-image: url(../images/demo/slider-img-2.jpg);
+    background-image: url(../images/demo/slider_img_2.jpg);
     background-repeat:no-repeat;
     background-attachment: scroll;
     background-position-y: 60%;
