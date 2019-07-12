@@ -17,9 +17,9 @@ let transporter = nodemailer.createTransport({
 // Step 2
 let mailOptions = {
     from: 'davejayshil4096@gmail.com', // TODO: email sender
-    to: 'davejayshil2604@gmail.com', // TODO: email receiver
-    subject: 'Nodemailer - Test',
-    text: 'Wooohooo it works!!'
+    to: 'srmtechrobocon@gmail.com', // TODO: email receiver
+    subject: 'recruitment',
+    text: 'Hello , noobs u are selected for our recruitment process'
 };
 
 
