@@ -22,6 +22,7 @@ let mailOptions = {
     text: 'Wooohooo it works!!'
 };
 
+function send(){
 // Step 3
 transporter.sendMail(mailOptions, (err, data) => {
     if (err) {
@@ -29,3 +30,4 @@ transporter.sendMail(mailOptions, (err, data) => {
     }
     return log('Email sent!!!');
 });
+}
